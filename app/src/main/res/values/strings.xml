@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Hola Senior</string>
+
+    <string name="saludo">Hola, fulano</string>
+    <string name="action_settings">Config.</string>
+    <string name="welcome_text">Hola, bienvenido a mi primer app.</string>
+    <string name="please_give_your_name_hint">Por favor ingrese su nombre</string>
+    <string name="sayhi">Saludar</string>
+    <string name="title_activity_saludo">Te saludo!</string>
+</resources>
